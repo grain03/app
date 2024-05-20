@@ -24,6 +24,8 @@
     position: absolute;
     z-index: 1;
 }
+
+/* TODO Add animation of card projects */
 .project .project_content{
     display: grid;
     box-sizing: border-box;
@@ -34,6 +36,8 @@
     position: absolute;
     top: 195px;
 }
+
+
 .project_content p{
     font-size: 0.8em;
 }
