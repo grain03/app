@@ -8,6 +8,7 @@ import Projects from 'Components/Projects/Projects';
 function App() {
   return (
     <div className="App">
+      <h1>Salam Alaikom</h1>
       <Navbar/>
       <Hero/>
       <Educations/>
